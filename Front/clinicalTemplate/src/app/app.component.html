@@ -1,0 +1,5 @@
+<div class="button-row" *ngIf ="!authService.isLoggedIn">
+    <a mat-flat-button color="primary" (click)="logout()">Logout</a>
+</div>
+<router-outlet></router-outlet>
+
