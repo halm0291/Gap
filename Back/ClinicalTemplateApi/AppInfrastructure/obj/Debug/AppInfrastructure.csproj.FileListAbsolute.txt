@@ -1,0 +1,13 @@
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\bin\Debug\AppInfrastructure.dll
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\bin\Debug\AppInfrastructure.pdb
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\obj\Debug\AppInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\obj\Debug\AppInfrastructure.dll
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\obj\Debug\AppInfrastructure.pdb
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\bin\Debug\Unity.Abstractions.dll
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\bin\Debug\Unity.Container.dll
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\bin\Debug\Unity.Abstractions.pdb
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\bin\Debug\Unity.Container.pdb
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\obj\Debug\AppInfrastructure.csproj.CopyComplete
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\AppInfrastructure\obj\Debug\AppInfrastructure.csprojAssemblyReference.cache

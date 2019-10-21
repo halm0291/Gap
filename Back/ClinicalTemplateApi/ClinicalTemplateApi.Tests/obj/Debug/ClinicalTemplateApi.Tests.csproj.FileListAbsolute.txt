@@ -1,0 +1,2 @@
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\ClinicalTemplateApi.Tests\obj\Debug\ClinicalTemplateApi.Tests.csprojAssemblyReference.cache
+C:\Users\alozano\Documents\HALM\ClinicalTemplate\Back\ClinicalTemplateApi\ClinicalTemplateApi.Tests\obj\Debug\ClinicalTemplateApi.Tests.csproj.CoreCompileInputs.cache
